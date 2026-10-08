@@ -1,0 +1,9 @@
+*.accdb
+*.accde
+*.laccdb
+.env
+.env.*
+*.log
+*.bak
+.DS_Store
+Thumbs.db
